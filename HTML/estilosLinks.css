@@ -1,0 +1,23 @@
+h1{
+    color: brown;
+}
+
+a:link{
+    color: rgb(238, 45, 11);
+    text-decoration: none;
+}
+
+a:visited{
+    color: aqua;
+    text-decoration: none;
+}
+/*cuando nos ponemos encima del linkl*/
+a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+/*cuando damos click sobre el link pone el color*/
+a:active{
+    color: black;
+}
+

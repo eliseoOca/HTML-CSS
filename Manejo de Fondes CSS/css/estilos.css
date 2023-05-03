@@ -1,0 +1,17 @@
+body{/*aca ponemos todo el estilos separado en varias lineas*/
+   /* background-color: dodgerblue;
+    color: cornsilk;
+    background-image: url("/Manejo de Fondes CSS/img/fondo.png");
+    background-repeat: no-repeat;
+    background-position: right top;*/
+    background-attachment: fixed;
+/*Aca se puede hacer todo el estilo en una sola liena*/
+    background: dodgerblue url("/Manejo de Fondes CSS/img/fondo.png") no-repeat right top;
+}
+
+h1{
+    text-align: center;
+    background-color: dodgerblue;
+    
+
+}

@@ -1,0 +1,23 @@
+h1{
+    color: #ffc6ff;
+    text-align: center;
+}
+p{
+    color: rgba(5, 7, 138, 0.952);
+    background-color: #ddb892;
+    padding: 15px;
+    border: 10px solid #b68406;
+   /* margin: 50px;*/
+  /* margin-top: 40px;
+  margin-right: 30px;
+  margin-bottom: 60px;
+   margin-left: 10px;
+   
+   */
+   /*margin: 40px 10px 20px 10px ;*/
+   margin: auto 50px;
+   text-align: center;
+}
+body{
+   background-color: #ffc6ff;
+}

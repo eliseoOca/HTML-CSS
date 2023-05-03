@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: #0000ff;
+}
+
+div{/*probando Box Sizing CSS*/
+    padding: 10px 15px 5px 3px;
+    /*border: 15px solid #0000ff;*/
+    /*margin: 20px;*/
+    background-color: rgb(243, 243, 243);
+    width: 300px;
+    /*outline: 10px solid #48488f;*/
+   /* outline-offset: 10px ;esta propiedad sirve para separar el outline*/
+    box-sizing: border-box;/*Pprobando box sizing CSS*/
+}

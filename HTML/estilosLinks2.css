@@ -1,0 +1,16 @@
+h1{
+    color: #560bad;
+}
+/*se puede dar varios eventos */
+a:link, a:visited{
+    background-color: #a50aec;
+    color: aliceblue;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    background-color: rgb(59, 3, 82);
+}

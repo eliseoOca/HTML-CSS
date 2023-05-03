@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: #0000ff;
+}
+
+div{
+    padding: 10px 15px 5px 3px;
+    border: 1px solid #0000ff;
+    /*margin: 0 auto;*/
+    margin-left: 100px;
+    background-color: rgb(243, 243, 243);
+    max-width: 300px;
+    box-sizing: border-box;/*Pprobando box sizing CSS*/
+}
+
+p.interno{
+    margin-left: inherit;
+}

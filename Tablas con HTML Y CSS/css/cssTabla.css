@@ -1,0 +1,38 @@
+table, th, td{
+    border: 1px solid #000000;
+   border-collapse: collapse;/*esto sirve para borders innecesario*/
+    padding: 5px;
+    /*border-spacing: 5px;/*aca le agregamos borders en px*/
+}
+table{
+    width: 100%;
+    
+}
+caption{
+    color: blue;
+   /* font-family: 'Trocchi', serif;*/
+    font-size: 45px;
+    line-height: 70px;
+}
+th{
+    color: aqua;
+    background-color: rgb(14, 10, 250);
+}
+/* esta caracteristica de css "nth-child(even)es para renglones pares*/
+tr:nth-child(even){
+    background-color: aqua;
+}
+/* esta caracteristica de css "nth-child(odd)es para renglones impares*/
+tr:nth-child(odd){
+    background-color: aquamarine;
+}
+/*
+td{
+    text-align: center;para poder centrar los textos
+}*/
+/*
+th{
+    text-align: left;
+}
+*/
+

@@ -1,0 +1,27 @@
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+
+#titulo_principal{
+    color: blueviolet;
+    text-align: center;
+    margin: 15px;
+}
+h2{
+    color: rgb(206, 118, 18);
+}
+p{
+    color: rgb(194, 15, 230);
+}
+/*Clase de CSS*/
+.tarjeta{
+    border: 10px solid #000;
+    background-color: rgb(164, 241, 238);
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+.titulo{
+    color: rgb(3, 75, 122);
+}

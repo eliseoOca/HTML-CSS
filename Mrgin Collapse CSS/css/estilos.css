@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: #0000ff;
+}
+
+.caja1{
+    padding: 10px 15px 5px 3px;
+    border: 1px solid #0000ff;
+    margin: 30px;
+    background-color: rgb(189, 151, 151);
+    max-width: 300px;
+    box-sizing: border-box;
+}
+
+.caja2{
+    padding: 10px 15px 5px 3px;
+    border: 1px solid #0000ff;
+    margin: 20px;
+    background-color: rgb(189, 151, 151);
+    max-width: 300px;
+    box-sizing: border-box;
+}
+
+

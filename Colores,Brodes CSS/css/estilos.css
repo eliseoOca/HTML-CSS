@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+
+.rojo{
+    background-color: IndianRed;
+    
+}
+
+.rosa{
+    background-color: hotpink;
+}
+
+.rojo, .rosa, .violeta{
+    color: aliceblue;
+}
+
+.amarillo{
+    background-color: gold;
+}
+
+.violeta{
+    background-color: blueviolet;
+}
+
+.verde{
+    background-color: lime;
+}
+
+.azul{
+    background-color: turquoise;
+}
+
+
+
+.azulBorde{
+    border: 10px dotted hsl(174, 72%, 56%);
+}
+
+.amarilloBorde{
+    border: 10px double #ffd700;
+}
+
+.rojoBorde{
+    border: 10px solid firebrick;
+    
+}
+
+
+.rosaBorde{
+    border: 10px dashed rgb(255, 105, 180);
+}
