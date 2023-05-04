@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css?family=fire|font-effect-fire-&display=swap');
+
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #a81fca;
+    font-family: 'Bruno Ace', cursive;
+    
+}
+
+.caja{
+    padding: 5px;
+    width: 40%;
+    height: 80%;
+    border-radius: 5px;
+    color: azure;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+}
+
+.caja.serif{
+    background-color: #a81fca;
+
+}
+
+.fuente_times{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal ;
+    font-weight: bold;
+    font-size: small;
+}
+
+.fuente_georgia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+.caja-sans-serif{
+    background-color: blue;
+    font-style: oblique;
+    font-size: medium;
+}
+
+.fuente_arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: smaller;
+}
+
+.fuente_verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+    font-size: xx-small;
+    font-size: 3vw;
+}
+
+.caja.monospace{
+    background-color: rgb(2, 66, 66);
+    font-variant: small-caps;
+    font-size: 40px;
+    
+}
+
+.fuente_courirer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vw;
+    
+}
+
+.caja.cursive{
+    background-color: black;
+}
+
+.fuente_lucida{
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 2em;
+}
