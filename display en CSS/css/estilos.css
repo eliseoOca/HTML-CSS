@@ -1,0 +1,27 @@
+h1, div, p{
+    border: 3px solid #db1010;
+    text-align: center;
+    color: rgb(2, 37, 37);
+    padding: 10px;
+    display: block;
+}
+
+h1{
+    display: none;
+}
+p{
+    display: none;
+}
+span{
+    display: inline;
+    border: 3px solid #db1010;
+}
+
+a{
+    display: block;
+    
+}
+
+li{
+    display: inline;
+}
